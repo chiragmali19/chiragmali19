@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag Mali</h1>
 <h3 align="center">A passionate frontend developer from India. I'm a passionate front-end web developer and full-stack Android developer with expertise in creating responsive, user-friendly web and mobile applications. I love turning ideas into reality through code.</h3>
-<img align="right" alt="Coding" width="400", src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQzoO9tHoV659uW_Blj_VYoa1BlhEoGRAmA&s" style="border-radius: 200px;">
+<img align="right" alt="Coding" width="200" style="border-radius: 200px;", src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQzoO9tHoV659uW_Blj_VYoa1BlhEoGRAmA&s" style="border-radius: 200px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragmali19&label=Profile%20views&color=0e75b6&style=flat" alt="chiragmali19" /> </p>
 
