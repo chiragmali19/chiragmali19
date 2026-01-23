@@ -95,7 +95,7 @@ I specialize in building **maintenance-first** mobile applications. My methodolo
 
 <div align="center">
   <h3>⚡ Digital Storefront</h3>
-  <a href="https://chirag-mali.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Web-70A5FD?style=for-the-badge" /></a>
+  <a href="(https://chiragmali-portfolio.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-Visit_Web-70A5FD?style=for-the-badge" /></a>
   <a href="https://play.google.com/store/apps/dev?id=6356354072109465902"><img src="https://img.shields.io/badge/Play_Store-View_Apps-3DDC84?style=for-the-badge" /></a>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=70A5FD&height=30&section=footer" width="100%"/>
