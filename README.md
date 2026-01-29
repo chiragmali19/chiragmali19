@@ -6,7 +6,7 @@
   </picture>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Senior+Product+Engineer;Flutter+Architect;Clean+Architecture+Specialist;Building+Agentic+Mobile+UX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Product+Engineer;Flutter+Architect;Clean+Architecture+Specialist;Building+Agentic+Mobile+UX" alt="Typing SVG" />
   </p>
 
   <p align="center">
